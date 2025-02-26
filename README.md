@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systematic application of engineering principles, methods and tools in the development and maintenance of sodtware systems. It plays a crucial role by enabling the creation of software applications and systems that power various aspects of modern life across the different sectors including commerce, education, healthcare and entertainment.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -23,6 +24,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 > Maintenance: To provide ongoing support, updates and enhancements to the software after development.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 The waterfall methodology is a linear and sequential approach with distinct phases flowing downwards while the agile methodology is a more iterative and adaptive approach focused on flexibility and responding to change.
 The waterfall methodology is ideal for projects with stable requirements and need for rigorous documentation. It is appropriate in industries like health and finance with strict adherence to documentation and regulation.
 The agile  methodology excels in environments where flexibility and rapid feedback are crucial such as in complex and dynamic projects where innovation and experimentation is required.
@@ -52,9 +54,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is about crafting questions or statements to get the best possibe responses from AI. It is important in ensuring AI understands exactly what you need by giving clear, specific and concise instructions.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt: Tell me about space
 Improved prompt: Tell me about planets of the solar system.
 The improved prompt is more effective as adding context helps AI understand your request better and subsequently gives you a better, more specific answer.
